@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c7f999041470414cb4636667c35cbb0, type: 3}
+  m_Name: Earthquake
+  m_EditorClassIdentifier: 
+  _name: Earthquake
+  _type: nature
+  _desc: The moment you hit the ground an enormous wave of energy travels through
+    the floor
+  _art: {fileID: 0}
+  _anim: {fileID: 0}
+  _mCost: 25
+  _spellDmg: 20
+  _isAOE: 1
+  _aoeDmg: 0
+  _isDOT: 1
+  _dotDur: 4
+  _dotDmg: 0
+  _isHOT: 1
+  _hotDur: 0
+  _hotAmount: 0
